@@ -10,3 +10,6 @@ Youtube's algorithm is so good to grab our attention, it ends up becoming a bane
 * Clone or Download the ZIP file.
 * Extract the files
 * Bookmark the file on your browser for quick access.
+
+## Screenshot
+![simpleyoutubescreenshot](https://i.imgur.com/TlTpg6b.png?1)
