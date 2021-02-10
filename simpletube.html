@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="icon" href="ytfavicon.ico" type="image/ico" sizes="16x16"> 
+        <title>Youtube Search</title>
+        <style>
+            body{
+                background-color: #181818;
+            }
+            input{
+                padding: 1rem;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: large;
+                border-style: none;
+            }
+            input[type=submit]{
+                background-color: #ff0000;
+                border-radius: 5%;
+                color: #fff;
+            }
+            input[type=submit]:hover{
+                background-color: #c00;;
+                color: #DCDCDC;
+            }
+            div{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 15rem;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+        <form action="https://www.youtube.com/results?search_query=">
+            
+            <input type="search" name="search_query" placeholder="Search on Youtube..." size="50">
+            <input type="submit" value="Search">
+          </form>
+        </div>
+    </body>
+</html>
